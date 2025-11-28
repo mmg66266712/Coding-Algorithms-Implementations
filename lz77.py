@@ -1,10 +1,3 @@
-# -----------------------------------------------------
-# team7: Assignment 1 - LZ77 Compression and Decompression
-# Members:
-# - Member 1: Mariam Medhat, ID: 20230399
-# - Member 2: Somaya Amr, ID: 20230179
-# - Member 3: Fatema Ali, ID: 20230282
-# -----------------------------------------------------
 import pandas as pd
 
 # -----------------------------------------------------
@@ -162,3 +155,4 @@ def main():
 # -----------------------------------------------------
 if __name__ == "__main__":
     main()
+
